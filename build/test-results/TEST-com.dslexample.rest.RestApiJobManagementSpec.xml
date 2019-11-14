@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dslexample.rest.RestApiJobManagementSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-12T17:45:26" hostname="a45e60f08c31" time="0.126">
+  <properties/>
+  <testcase name="getPath" classname="com.dslexample.rest.RestApiJobManagementSpec" time="0.126"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
